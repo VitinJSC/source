@@ -262,9 +262,9 @@
             chatLink: 'https://raw.githack.com/basicBot/source/master/lang/en.json',
             scriptLink: 'https://raw.githack.com/basicBot/source/master/basicBot.js',
             roomLock: false, // Requires an extension to re-load the script
-            startupCap: 200, // 1-200
-            startupVolume: 100, // 0-100
-            startupEmoji: true, // true or false
+            startupCap: null, // 1-200
+            startupVolume: null, // 0-100
+            startupEmoji: null, // true or false
             autowoot: true,
             autoskip: false,
             smartSkip: true,
