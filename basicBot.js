@@ -284,7 +284,7 @@
             historySkip: false,
             timeGuard: true,
             strictTimeGuard: true,
-            maximumSongLength: null,
+            maximumSongLength: 1440,
             autodisable: false,
             commandCooldown: 30,
             usercommandsEnabled: true,
